@@ -1,1 +1,4 @@
 # AI-project
+
+MINESWEEPER GAME
+
